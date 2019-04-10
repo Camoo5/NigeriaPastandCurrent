@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NigeriaPastandCurrent</string>
+    <string name="title_activity_knowledge_on_nigeria">KnowledgeOnNigeria</string>
+    <string name="quiz_on_nigeria_past_history_and_most_recent">Quiz on Nigeria past History and most recent</string>
+    <string name="knowledge_based_quiz_on_nigeria">Knowledge based quiz on Nigeria</string>
+    <string name="naija_quiz">Nigeria Past and Present</string>
+    <string name="start_quiz">START QUIZ</string>
+    <string name="high_score">Highscore: 0</string>
+    <string name="score">Score: 0</string>
+    <string name="answer1">Button</string>
+    <string name="answer2">Button</string>
+    <string name="answer3">Button</string>
+    <string name="answer4">Button</string>
+    <string name="question">TEXT</string>
+
+
+</resources>
